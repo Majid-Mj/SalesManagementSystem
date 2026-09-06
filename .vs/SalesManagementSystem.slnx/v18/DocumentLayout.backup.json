@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|c:\\projects\\velosyncoptimizer\\salesmanagementsystem\\salesmanagementsystem\\services\\salesinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|solutionrelative:salesmanagementsystem\\services\\salesinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|c:\\projects\\velosyncoptimizer\\salesmanagementsystem\\salesmanagementsystem\\models\\salesinvoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|solutionrelative:salesmanagementsystem\\models\\salesinvoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|c:\\projects\\velosyncoptimizer\\salesmanagementsystem\\salesmanagementsystem\\controllers\\salesinvoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|solutionrelative:salesmanagementsystem\\controllers\\salesinvoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|c:\\projects\\velosyncoptimizer\\salesmanagementsystem\\salesmanagementsystem\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|solutionrelative:salesmanagementsystem\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|c:\\projects\\velosyncoptimizer\\salesmanagementsystem\\salesmanagementsystem\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|solutionrelative:salesmanagementsystem\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|c:\\projects\\velosyncoptimizer\\salesmanagementsystem\\salesmanagementsystem\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|solutionrelative:salesmanagementsystem\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|c:\\projects\\velosyncoptimizer\\salesmanagementsystem\\salesmanagementsystem\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|solutionrelative:salesmanagementsystem\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|c:\\projects\\velosyncoptimizer\\salesmanagementsystem\\salesmanagementsystem\\dtos\\invoicedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|solutionrelative:salesmanagementsystem\\dtos\\invoicedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|c:\\projects\\velosyncoptimizer\\salesmanagementsystem\\salesmanagementsystem\\models\\salesinvoicemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|solutionrelative:salesmanagementsystem\\models\\salesinvoicemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|c:\\projects\\velosyncoptimizer\\salesmanagementsystem\\salesmanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|solutionrelative:salesmanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|c:\\projects\\velosyncoptimizer\\salesmanagementsystem\\salesmanagementsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|solutionrelative:salesmanagementsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|c:\\projects\\velosyncoptimizer\\salesmanagementsystem\\salesmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|solutionrelative:salesmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|c:\\projects\\velosyncoptimizer\\salesmanagementsystem\\salesmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|solutionrelative:salesmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|c:\\projects\\velosyncoptimizer\\salesmanagementsystem\\salesmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|solutionrelative:salesmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|c:\\projects\\velosyncoptimizer\\salesmanagementsystem\\salesmanagementsystem\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|solutionrelative:salesmanagementsystem\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|c:\\projects\\velosyncoptimizer\\salesmanagementsystem\\salesmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|solutionrelative:salesmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|c:\\projects\\velosyncoptimizer\\salesmanagementsystem\\salesmanagementsystem\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|solutionrelative:salesmanagementsystem\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|c:\\projects\\velosyncoptimizer\\salesmanagementsystem\\salesmanagementsystem\\salesmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1CA8108C-3F22-5CFA-4098-6F16086330DF}|SalesManagementSystem\\SalesManagementSystem.csproj|solutionrelative:salesmanagementsystem\\salesmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Services\\ProductService.cs",
+              "RelativeToolTip": "SalesManagementSystem\\Services\\ProductService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T08:14:19.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesInvoiceDetail.cs",
+              "DocumentMoniker": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Models\\SalesInvoiceDetail.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem\\Models\\SalesInvoiceDetail.cs",
+              "ToolTip": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Models\\SalesInvoiceDetail.cs",
+              "RelativeToolTip": "SalesManagementSystem\\Models\\SalesInvoiceDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T05:21:33.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem\\Models\\Product.cs",
+              "ToolTip": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Models\\Product.cs",
+              "RelativeToolTip": "SalesManagementSystem\\Models\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T05:17:16.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesInvoiceService.cs",
+              "DocumentMoniker": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Services\\SalesInvoiceService.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem\\Services\\SalesInvoiceService.cs",
+              "ToolTip": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Services\\SalesInvoiceService.cs",
+              "RelativeToolTip": "SalesManagementSystem\\Services\\SalesInvoiceService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T17:45:53.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "SalesManagementSystem\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwC8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T15:54:27.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesInvoiceController.cs",
+              "DocumentMoniker": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Controllers\\SalesInvoiceController.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem\\Controllers\\SalesInvoiceController.cs",
+              "ToolTip": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Controllers\\SalesInvoiceController.cs",
+              "RelativeToolTip": "SalesManagementSystem\\Controllers\\SalesInvoiceController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T17:59:05.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesInvoiceMaster.cs",
+              "DocumentMoniker": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Models\\SalesInvoiceMaster.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem\\Models\\SalesInvoiceMaster.cs",
+              "ToolTip": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Models\\SalesInvoiceMaster.cs",
+              "RelativeToolTip": "SalesManagementSystem\\Models\\SalesInvoiceMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T05:20:26.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Services\\CustomerService.cs",
+              "RelativeToolTip": "SalesManagementSystem\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA5wEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T15:44:38.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvoiceDtos.cs",
+              "DocumentMoniker": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\DTOs\\InvoiceDtos.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem\\DTOs\\InvoiceDtos.cs",
+              "ToolTip": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\DTOs\\InvoiceDtos.cs",
+              "RelativeToolTip": "SalesManagementSystem\\DTOs\\InvoiceDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T18:23:10.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\DTOs\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem\\DTOs\\CustomerDto.cs",
+              "ToolTip": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\DTOs\\CustomerDto.cs",
+              "RelativeToolTip": "SalesManagementSystem\\DTOs\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T15:42:41.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem\\Models\\Customer.cs",
+              "ToolTip": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Models\\Customer.cs",
+              "RelativeToolTip": "SalesManagementSystem\\Models\\Customer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T05:18:08.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "SalesManagementSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T05:14:48.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Program.cs",
+              "RelativeToolTip": "SalesManagementSystem\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T06:14:55.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SalesManagementSystem\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwEwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T08:36:26.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "SalesManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\appsettings.json",
+              "RelativeToolTip": "SalesManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-05T06:00:24.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SalesManagementSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T06:32:52.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthDto.cs",
+              "DocumentMoniker": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\DTOs\\AuthDto.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem\\DTOs\\AuthDto.cs",
+              "ToolTip": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\DTOs\\AuthDto.cs",
+              "RelativeToolTip": "SalesManagementSystem\\DTOs\\AuthDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T06:44:17.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SalesManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\SalesManagementSystem.csproj",
+              "RelativeDocumentMoniker": "SalesManagementSystem\\SalesManagementSystem.csproj",
+              "ToolTip": "C:\\Projects\\VeloSyncOptimizer\\SalesManagementSystem\\SalesManagementSystem\\SalesManagementSystem.csproj",
+              "RelativeToolTip": "SalesManagementSystem\\SalesManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-05T05:35:02.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

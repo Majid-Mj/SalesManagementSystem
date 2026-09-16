@@ -1,0 +1,18 @@
+## Build outputs
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio / IDE
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+[Dd]s_[Ss]tore

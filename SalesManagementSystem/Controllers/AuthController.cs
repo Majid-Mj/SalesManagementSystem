@@ -1,10 +1,6 @@
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using SalesManagementSystem.Data;
-using SalesManagementSystem.DTOs;
-using SalesManagementSystem.Models;
-using SalesManagementSystem.Services;
-using Microsoft.EntityFrameworkCore;
+using SalesManagementSystem.Application.DTOs;
+using SalesManagementSystem.Application.Interfaces;
 
 namespace SalesManagementSystem.Controllers;
 
@@ -12,26 +8,24 @@ namespace SalesManagementSystem.Controllers;
 [Route("api/[controller]")]
 public class AuthController : ControllerBase
 {
-    private readonly AuthService _authService;
+    private readonly IAuthService _authService;
 
-    public AuthController(AuthService authService)
+    public AuthController(IAuthService authService)
     {
         _authService = authService;
     }
 
     [HttpPost("register")]
-    public async Task<IActionResult> Register(User user)
+    public async Task<IActionResult> Register([FromBody] RegisterDto request)
     {
-        var result = await _authService.RegisterAsync(user);
-        if (!result.Success) return BadRequest(new { message = result.Error });
-        return Ok(new { message = "User registered" });
+        var response = await _authService.RegisterAsync(request);
+        return StatusCode(response.StatusCode, response);
     }
 
     [HttpPost("login")]
-    public async Task<IActionResult> Login(LoginRequestDto request)
+    public async Task<IActionResult> Login([FromBody] LoginRequestDto request)
     {
-        var result = await _authService.LoginAsync(request);
-        if (result == null) return Unauthorized(new { message = "Invalid username or password" });
-        return Ok(result);
+        var response = await _authService.LoginAsync(request);
+        return StatusCode(response.StatusCode, response);
     }
 }

@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using SalesManagementSystem.Application.Interfaces;
 using SalesManagementSystem.Infrastructure.Data;
 using SalesManagementSystem.Infrastructure.Options;
 using SalesManagementSystem.Infrastructure.Services;
@@ -16,6 +17,7 @@ public static class DependencyInjection
         services.AddDbContext<AppDbContext>(options =>
             options.UseNpgsql(configuration.GetConnectionString("DefaultConnection")));
 
+        services.AddScoped<IAppDbContext>(provider => provider.GetRequiredService<AppDbContext>());
         services.AddScoped<IJwtTokenGenerator, JwtTokenGenerator>();
 
         return services;

@@ -3,17 +3,15 @@ using SalesManagementSystem.Application.Common;
 using SalesManagementSystem.Application.DTOs;
 using SalesManagementSystem.Application.Interfaces;
 using SalesManagementSystem.Domain.Entities;
-using SalesManagementSystem.Infrastructure.Data;
-using SalesManagementSystem.Infrastructure.Services;
 
 namespace SalesManagementSystem.Application.Services;
 
 public class AuthService : IAuthService
 {
-    private readonly AppDbContext _context;
+    private readonly IAppDbContext _context;
     private readonly IJwtTokenGenerator _jwtTokenGenerator;
 
-    public AuthService(AppDbContext context, IJwtTokenGenerator jwtTokenGenerator)
+    public AuthService(IAppDbContext context, IJwtTokenGenerator jwtTokenGenerator)
     {
         _context = context;
         _jwtTokenGenerator = jwtTokenGenerator;

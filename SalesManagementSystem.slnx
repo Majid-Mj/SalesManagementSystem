@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="SalesManagementSystem.Application/SalesManagementSystem.Application.csproj" />
-  <Project Path="SalesManagementSystem.Domain/SalesManagementSystem.Domain.csproj" />
-  <Project Path="SalesManagementSystem.Infrastructure/SalesManagementSystem.Infrastructure.csproj" />
-  <Project Path="SalesManagementSystem/SalesManagementSystem.Api.csproj" />
-</Solution>

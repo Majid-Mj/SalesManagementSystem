@@ -1,9 +1,10 @@
 using Microsoft.EntityFrameworkCore;
+using SalesManagementSystem.Application.Interfaces;
 using SalesManagementSystem.Domain.Entities;
 
 namespace SalesManagementSystem.Infrastructure.Data;
 
-public class AppDbContext : DbContext
+public class AppDbContext : DbContext, IAppDbContext
 {
     public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 

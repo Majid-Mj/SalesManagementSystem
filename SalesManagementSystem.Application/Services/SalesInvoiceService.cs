@@ -1,6 +1,5 @@
 using Microsoft.EntityFrameworkCore;
 using SalesManagementSystem.Application.Common;
-using SalesManagementSystem.Infrastructure.Data;
 using SalesManagementSystem.Application.DTOs;
 using SalesManagementSystem.Application.Interfaces;
 using SalesManagementSystem.Domain.Entities;
@@ -9,9 +8,9 @@ namespace SalesManagementSystem.Application.Services;
 
 public class SalesInvoiceService : ISalesInvoiceService
 {
-    private readonly AppDbContext _context;
+    private readonly IAppDbContext _context;
 
-    public SalesInvoiceService(AppDbContext context) => _context = context;
+    public SalesInvoiceService(IAppDbContext context) => _context = context;
 
     public async Task<ApiResponse<List<SalesInvoiceMaster>>> GetAllAsync()
     {

@@ -3,8 +3,9 @@ using System.Security.Claims;
 using System.Text;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
-using SalesManagementSystem.Infrastructure.Options;
+using SalesManagementSystem.Application.Interfaces;
 using SalesManagementSystem.Domain.Entities;
+using SalesManagementSystem.Infrastructure.Options;
 
 namespace SalesManagementSystem.Infrastructure.Services;
 

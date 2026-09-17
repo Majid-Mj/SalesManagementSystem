@@ -1,6 +1,6 @@
 using SalesManagementSystem.Domain.Entities;
 
-namespace SalesManagementSystem.Infrastructure.Services;
+namespace SalesManagementSystem.Application.Interfaces;
 
 public interface IJwtTokenGenerator
 {

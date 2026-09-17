@@ -1,6 +1,5 @@
 using Microsoft.EntityFrameworkCore;
 using SalesManagementSystem.Application.Common;
-using SalesManagementSystem.Infrastructure.Data;
 using SalesManagementSystem.Application.DTOs;
 using SalesManagementSystem.Application.Interfaces;
 using SalesManagementSystem.Domain.Entities;
@@ -9,9 +8,9 @@ namespace SalesManagementSystem.Application.Services;
 
 public class CustomerService : ICustomerService
 {
-    private readonly AppDbContext _context;
+    private readonly IAppDbContext _context;
 
-    public CustomerService(AppDbContext context) => _context = context;
+    public CustomerService(IAppDbContext context) => _context = context;
 
     public async Task<ApiResponse<List<Customer>>> GetAllCustomersAsync() =>
         ApiResponse<List<Customer>>.SuccessResponse(await _context.Customers.AsNoTracking().ToListAsync());
